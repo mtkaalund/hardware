@@ -1715,34 +1715,6 @@ ByLayer
  10
 214.75
  20
-69.7499999999999858
- 30
-0.0
- 11
-214.75
- 21
--105.25
- 31
-0.0
-  0
-LINE
-  5
-55
-100
-AcDbEntity
-100
-AcDbLine
-  8
-guide
- 62
-256
-370
--1
-  6
-ByLayer
- 10
-214.75
- 20
 -105.25
  30
 0.0
@@ -1753,37 +1725,9 @@ ByLayer
  31
 0.0
   0
-LINE
-  5
-56
-100
-AcDbEntity
-100
-AcDbLine
-  8
-guide
- 62
-256
-370
--1
-  6
-ByLayer
- 10
-53.75
- 20
-69.75
- 30
-0.0
- 11
-214.75
- 21
-69.75
- 31
-0.0
-  0
 MTEXT
   5
-57
+55
 100
 AcDbEntity
 100
@@ -1823,7 +1767,7 @@ normallatin1
   0
 MTEXT
   5
-58
+56
 100
 AcDbEntity
 100
@@ -1863,7 +1807,7 @@ normallatin1
   0
 MTEXT
   5
-59
+57
 100
 AcDbEntity
 100
@@ -1900,6 +1844,370 @@ normallatin1
 1
  44
 1.0
+  0
+LINE
+  5
+58
+100
+AcDbEntity
+100
+AcDbLine
+  8
+guide
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+-116.25
+ 20
+69.75
+ 30
+0.0
+ 11
+214.75
+ 21
+69.75
+ 31
+0.0
+  0
+LINE
+  5
+59
+100
+AcDbEntity
+100
+AcDbLine
+  8
+guide
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+-116.2500000000000284
+ 20
+-100.25
+ 30
+0.0
+ 11
+53.7499999999999929
+ 21
+-100.25
+ 31
+0.0
+  0
+LINE
+  5
+5A
+100
+AcDbEntity
+100
+AcDbLine
+  8
+guide
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+-116.25
+ 20
+69.75
+ 30
+0.0
+ 11
+-116.25
+ 21
+-100.25
+ 31
+0.0
+  0
+LINE
+  5
+5B
+100
+AcDbEntity
+100
+AcDbLine
+  8
+guide
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+-119.25
+ 20
+72.75
+ 30
+0.0
+ 11
+214.75
+ 21
+72.75
+ 31
+0.0
+  0
+LINE
+  5
+5C
+100
+AcDbEntity
+100
+AcDbLine
+  8
+guide
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+-119.25
+ 20
+72.75
+ 30
+0.0
+ 11
+-119.25
+ 21
+-105.2499999999999432
+ 31
+0.0
+  0
+LINE
+  5
+5D
+100
+AcDbEntity
+100
+AcDbLine
+  8
+guide
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+214.75
+ 20
+72.75
+ 30
+0.0
+ 11
+214.75
+ 21
+-105.25
+ 31
+0.0
+  0
+LINE
+  5
+5E
+100
+AcDbEntity
+100
+AcDbLine
+  8
+Center
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+150.25
+ 20
+57.25
+ 30
+0.0
+ 11
+70.25
+ 21
+57.25
+ 31
+0.0
+  0
+LINE
+  5
+5F
+100
+AcDbEntity
+100
+AcDbLine
+  8
+Center
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+165.25
+ 20
+-32.75
+ 30
+0.0
+ 11
+55.2499999999999858
+ 21
+-32.75
+ 31
+0.0
+  0
+LINE
+  5
+60
+100
+AcDbEntity
+100
+AcDbLine
+  8
+guide
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+166.75
+ 20
+-80.25
+ 30
+0.0
+ 11
+211.75
+ 21
+-80.25
+ 31
+0.0
+  0
+LINE
+  5
+61
+100
+AcDbEntity
+100
+AcDbLine
+  8
+Center
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+166.75
+ 20
+-5.25
+ 30
+0.0
+ 11
+211.75
+ 21
+-5.25
+ 31
+0.0
+  0
+LINE
+  5
+62
+100
+AcDbEntity
+100
+AcDbLine
+  8
+Center
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+189.25
+ 20
+69.75
+ 30
+0.0
+ 11
+189.25
+ 21
+-80.25
+ 31
+0.0
+  0
+LINE
+  5
+63
+100
+AcDbEntity
+100
+AcDbLine
+  8
+Center
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+-116.2500000000000284
+ 20
+-15.25
+ 30
+0.0
+ 11
+53.75
+ 21
+-15.25
+ 31
+0.0
+  0
+LINE
+  5
+64
+100
+AcDbEntity
+100
+AcDbLine
+  8
+Center
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+-31.25
+ 20
+69.7500000000000284
+ 30
+0.0
+ 11
+-31.2500000000000071
+ 21
+-105.2499999999999716
+ 31
+0.0
   0
 ENDSEC
   0
@@ -1939,7 +2247,7 @@ E
   3
 AcDbVariableDictionary
 350
-5A
+65
   0
 DICTIONARY
   5
@@ -2403,7 +2711,7 @@ Layout2
   0
 DICTIONARY
   5
-5A
+65
 100
 AcDbDictionary
 281
@@ -2411,15 +2719,15 @@ AcDbDictionary
   3
 DIMASSOC
 350
-5C
+67
   3
 HIDETEXT
 350
-5B
+66
   0
 DICTIONARYVAR
   5
-5B
+66
 100
 DictionaryVariables
 280
@@ -2429,7 +2737,7 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-5C
+67
 100
 DictionaryVariables
 280
