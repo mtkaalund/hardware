@@ -1,0 +1,2 @@
+(load (build-path geda-rc-path "gschem-colormap-darkbg"))
+(component-library-search "~/GIT/Electrical/symbols")
